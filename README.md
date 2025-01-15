@@ -1,3 +1,5 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](http://ww38.rishavchanda.io/)
+
 # 💫 About Me:
 I'm recently completed my Diploma in IT and Data Science.<br>Dedicated and skilled developer with expertise in the Python, OOPs principles, and MERN stack. Experienced in building user-friendly<br>web applications, integrating payment gateways, and leveraging APIs. Proven ability to lead teams, deliver high-quality projects, and<br>continuously learn and adapt to new technologies.
 
